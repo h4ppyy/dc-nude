@@ -1,0 +1,6 @@
+nudepy
+pymysql
+requests
+BeautifulSoup4
+lxml
+urllib
