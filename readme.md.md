@@ -5,10 +5,10 @@
 - requirements.txt 참고
 
 
-#### 실행화면
+#### 실행결과
 ![enter image description here](https://github.com/h4ppyy/dc-nude/blob/master/read_ref/1.png?raw=true)
 
 ![enter image description here](https://github.com/h4ppyy/dc-nude/blob/master/read_ref/2.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgyMTc1ODNdfQ==
+eyJoaXN0b3J5IjpbLTMzMTA4MjkwN119
 -->
